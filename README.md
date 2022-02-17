@@ -1,1 +1,1 @@
-[![idangdev](https://circleci.com/gh/idangdev/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/idangdev/MySimpleCleanArchitecture)
+[![idangdev](https://app.circleci.com/pipelines/github/idangdev/MySimpleCleanArchitecture.svg?style=svg)](https://app.circleci.com/pipelines/github/idangdev/MySimpleCleanArchitecture)
